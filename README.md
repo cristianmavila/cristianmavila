@@ -11,4 +11,3 @@ Tech Stack
 ```
 Typescript, NextJS, PHP, Django, Wordpress, Drupal, and Vercel.
 ```
-- 
