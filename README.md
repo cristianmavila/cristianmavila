@@ -4,7 +4,7 @@ Senior Fullstack Developer
 
 Working remotely from 🇧🇷 to 🇺🇸 Austin,TX
 
-I'm passionate about technology and machine learning. (Cursor, ChatGPT, Claude AI)
+I'm passionate about technology.
 
 Tech Stack
 
